@@ -8,6 +8,8 @@ CROP
 dataset of cropped images
 ![image](https://user-images.githubusercontent.com/98642809/205488435-4b771723-ebf1-4f21-9860-60ba85a32593.png)
 CANNY EDGE DETECTIVE
+![image](https://user-images.githubusercontent.com/98642809/205574935-7890426e-6f8c-41ea-973f-e71d83f4ca84.png)
+
 ![20221025_130421](https://user-images.githubusercontent.com/98642809/205571117-10c9c3eb-1fdc-42ff-90af-ab9dd8c74034.jpg)
 
 ![image](https://user-images.githubusercontent.com/98642809/205570844-653099de-e48f-4e95-8b0d-a7d56c757b92.png)
