@@ -11,3 +11,6 @@ CANNY EDGE DETECTIVE
 ![20221025_130421](https://user-images.githubusercontent.com/98642809/205571117-10c9c3eb-1fdc-42ff-90af-ab9dd8c74034.jpg)
 
 ![image](https://user-images.githubusercontent.com/98642809/205570844-653099de-e48f-4e95-8b0d-a7d56c757b92.png)
+
+
+https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html(I used the ready code here)
